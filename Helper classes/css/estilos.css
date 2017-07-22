@@ -1,0 +1,10 @@
+.centrado {
+	background: green;
+	color: #fff;
+	width: 500px;
+	padding: 20px 20px;
+}
+
+.wrapper {
+	background: yellow;
+}
